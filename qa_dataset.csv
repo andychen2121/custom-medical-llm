@@ -1,0 +1,494 @@
+,question,answer
+0,<pad> question: What is the name of the angiogram that shows the four phases of vascular opacification?</s>,[STARTUP]
+1,<pad> question: What is a common complication of embolization?</s>,Air embolism
+2,<pad> question: What is SVC?</s>,superior vena cava (s Vc)
+3,<pad> question: What is the role of interventional radiology in gastrointestinal bleeding?</s>,Hepatic artery aneurysmMesenteric ischemiaAcute mesenteric ischemiaChronic mesenteric ischemiaGastrointestinal (GI) bleeding
+4,<pad> question: What is the name of the disease that causes the appearance of the renal arteries?</s>,Atherosclerotic renal artery stenosisFibromuscular dysplasia (FMD)Neurofibromatosis
+5,<pad> question: What is AML?</s>,OncocytomaAngiomyolipoma (AML)
+6,<pad> question: What was the grade Iv injury?</s>,Renal traumaRenal arteriovenous fistulas and malformations
+7,<pad> question: What is the name of the syndrome?</s>,Nutcracker syndromeMay–Thürner
+8,<pad> question: What is the name of the vein that is likely retroaortic?</s>,Varicocele
+9,<pad> question: What is the name of the procedure that is performed to check for biliary disease?</s>,Percutaneous transhepatic cholangiography (Ptc)
+10,<pad> question: What is the name of the disease that causes a klatskin tumor?</s>,Sclerosing cholangitisMalignant biliary obstruction
+11,<pad> question: What is the name of the condition that is caused by calculous cholecystitis?</s>,Acute cholecystitis
+12,<pad> question: What is the PCN?</s>,Percutaneous nephrostomy indications and technique
+13,<pad> question: What is the name of the disease that causes a thrombus of the aorta?</s>,Iliac atherosclerotic disease
+14,<pad> question: What is the name of the enlarged left internal iliac artery?</s>,Persistent sciatic artery
+15,<pad> question: What is the type of occlusion?</s>,Chronic arterial occlusive diseaseFemoropopliteal disease
+16,<pad> question: What is the name of the thoracic outlet syndrome?</s>,Acute thromboembolic diseasePopliteal aneurysmnonatherosclerotic lower extremity arterial diseaseBuerger diseasePopliteal entrapment syndromeCystic adventitial disease
+17,<pad> question: What is the clinical evaluation of?</s>,surgical dialysis access
+18,<pad> question: What is used to determine the occlusion of the ulnar artery?</s>,Hypothenar hammer
+19,<pad> question: What is the name of the disease that is caused by a thromboembolic disease?</s>,Buerger diseaseRaynaud diseaseThromboembolic disease
+20,<pad> question: What is the term for angiography of the celiac trunk?</s>,Thoracic Angiography:
+21,<pad> question: What are the two main types of interventions?</s>,Splenic and Renal Arteries:
+22,<pad> question: What is the term for a gastrointestinal bleeding that is resistant to endoscopic treatment?</s>,Nonvariceal GI Bleeding:
+23,<pad> question: What is the name of the procedure that is performed with Extensions of the Technique?</s>,Percutaneous Nephrostomy:
+24,<pad> question: What is the name of the procedure used to diagnose thorac outlet syndrome?</s>,Lower Extremity Angiography:
+25,<pad> question: What type of pathology can be seen on a lateral neck radiograph?</s>,Anatomy
+26,<pad> question: What is the name of the disease that causes the choanae to be blocked?</s>,Choanal atresiaJuvenile nasopharyngeal angiofibroma (JNA)Nasal rhabdomyosarcoma
+27,<pad> question: What is the name of the aspirated foreign body in croup?</s>,EpiglottitisCroup (laryngotracheobronchitis)Aspirated foreign bodyRetropharyngeal abscess
+28,<pad> question: What is the name of the condition that causes a tracheal collapse?</s>,Subglottic hemangiomaLaryngeal papillomatosisTracheal stenosisTracheobronchomalacia
+29,<pad> question: What is the lateral esophagram showing?</s>,Right arch with aberrant left subclavian artery
+30,<pad> question: What is the term for a newborn's tachyhypnea?</s>,Transient tachypnea of the newborn (TTN)
+31,<pad> question: What is the name of the condition in which a baby is given extracorporeal membrane oxygenation?</s>,Neonatal pneumonia
+32,<pad> question: What is the name of the condition that affects the left lower lobe?</s>,Bronchial atresia
+33,<pad> question: What is the term for?</s>,Sequestration
+34,<pad> question: What is the name of the disease that causes small airways to be swollen?</s>,small airways diseaseBronchiolitis
+35,<pad> question: What is the name of the bronchial wall thickening?</s>,Poland syndrome
+36,<pad> question: What is the only historical interest?</s>,Approach to the plain film of congenital heart disease
+37,<pad> question: What is the cause of CHF?</s>,Hypoplastic left heart (HLH)Extracardiac shunt causing CHF
+38,<pad> question: What is another name for AV canal defect?</s>,Atrial septal defect (ASD)Ventricular septal defect (VSD)
+39,<pad> question: What is an Ebstein anomalyyanotic?</s>,Ebstein anomalyyanotic: Increased pulmonary vascularity (admixture “t” lesion
+40,<pad> question: What is the name of the aortic coarctation?</s>,Tricuspid atresiaTruncus arteriosusAortic coarctationcardiac massesRhabdomyomaTeratomaFibromaHemangioma
+41,<pad> question: What is the most prominent bowel lucencies in a neonate?</s>,GI emergencies
+42,<pad> question: What is the term for a pyloric stenosis?</s>,Appendicitis
+43,<pad> question: What are two other signs of stenosis?</s>,Malrotation and midgut volvulus
+44,<pad> question: What is the cause of a microcolon?</s>,congenital low/distal bowel obstruction
+45,<pad> question: What is the name of the condition that causes Hirschsprung disease?</s>,Ileal atresia/colonic atresia
+46,<pad> question: What is Crohn disease?</s>,AppendicitisInguinal herniaCrohn disease
+47,<pad> question: What is the name of the hepatitis that is not present in neonates?</s>,Imperforate anus
+48,<pad> question: What is the name of the mass that forms a claw sign around the liver?</s>,cystic Liver/biliary massesMesenchymal hamartoma
+49,<pad> question: What is the term for a tumor that is a heterogeneous mass?</s>,Hepatocellular carcinoma (HCC)
+50,<pad> question: What type of meckel contains ectopic gastric mucosa?</s>,Meckel diverticulum
+51,<pad> question: What are two types of calcifications?</s>,Abdominal calcificationHydronephrosis and Hydroureter
+52,<pad> question: What is the term for bladder outlet obstruction?</s>,Posterior urethral valves (bladder outlet obstruction)Prune belly syndromeUreterocele (UVJ obstruction)
+53,<pad> question: What is the name of the disease that causes a simple renal cyst?</s>,Multicystic dysplastic kidney (MCDK)Simple renal cystMultilocular cystic nephromaAutosomal recessive polycystic kidney disease (ARPKD)
+54,<pad> question: What is RCC?</s>,Renal cell carcinoma (RCC)Rhabdoid tumorClear cell sarcomaRenal metastases
+55,<pad> question: What is the name of the disease?</s>,Mesoblastic nephromaNephroblastomatosis
+56,<pad> question: What is AML?</s>,Angiomyolipoma (AML)
+57,<pad> question: What is the name of the disease that causes the right paradiaphragmatic contour to be abnormal?</s>,Neuroblastoma
+58,<pad> question: What are two types of cancers?</s>,Ganglioneuroma and ganglioneuroblastomaAdrenal hemorrhage (in neonates)Adrenal cortical carcinoma
+59,<pad> question: What is the name of the fracture that is not displaced?</s>,Sacrococcygeal teratoma
+60,<pad> question: What is the angled buckle fracture?</s>,Radial buckle fracture
+61,<pad> question: What is the condition that has multiple Wormian bones?</s>,Cleidocranial dysostosis
+62,<pad> question: What is the name of the type of mucopolysaccharidose?</s>,EnchondromatosesMucopolysaccharidoses
+63,<pad> question: What is the same aseptic toxic synovitis?</s>,Septic hip arthritis
+64,<pad> question: What is the name of the disease that is caused by a tumor?</s>,Osteosarcoma
+65,<pad> question: What is the term for a sclerotic lesion of the distal tibia?</s>,Ewing sarcoma
+66,<pad> question: What is eosinophilic granuloma?</s>,Osseous Langerhans cell histiocytosis (LCH)
+67,<pad> question: What is a rickets diagnosis?</s>,Chronic recurrent multifocal osteomyelitis (CRMO)Rickets
+68,<pad> question: What is the name of the disease that causes juvenile rheumatoid arthritis?</s>,Syphilis
+69,<pad> question: What is the term for the development of the hip?</s>,Developmental dysplasia of the hip (DDH)
+70,<pad> question: What is the name of the lunotriquetral coalition?</s>,Blount diseaseTorticollisTarsal coalitionCarpal coalition
+71,<pad> question: What is normal development?</s>,normal development
+72,<pad> question: What is the name of the malformation in a different patient?</s>,Chiari I malformation
+73,<pad> question: Who courtesy of Boston Children's Hospital?</s>,Dandy Walker
+74,<pad> question: What is the name of the disease that causes NF2?</s>,Neurofibromatosis 2 (NF 2)
+75,<pad> question: What is the name of the malformations in the midbrain?</s>,Midbrain malformationsJoubert and related syndrome
+76,<pad> question: What is the name of the chest that is a part of the newborn?</s>,Pediatric Chest:
+77,<pad> question: What is the name of the pediatric disease that affects the gastrointestinal tract?</s>,Pediatric Gastrointestinal:
+78,<pad> question: What is the specialty of Upper Extremity Injuries?</s>,Pediatric Musculoskeletal:
+79,<pad> question: What is the field of neuroimaging that has advanced in holoprosencephaly?</s>,Pediatric Neuroimaging:
+80,<pad> question: What is the name of the allergictype acute contrast reactions?</s>,[STARTUP]
+81,<pad> question: What is the name of the type of media that is used in contrast media reaction?</s>,Iodinated contrast media reaction
+82,<pad> question: What is the difference between iodinated contrast and pheochromocytoma?</s>,Prevention of contrast nephropathyIodinated ct contrast: General considerations
+83,<pad> question: What are some of the issues with gadoliniumbased contrast?</s>,Iodinated contrast and breast feedingContrast extravasationImmediate adverse reactions to gadoliniumbased contrastContrast extravasationdoliniumbased contrast in pregnancy and breastfeedingGadoliniumbased contrast and breast feeding
+84,<pad> question: What is the name of the non-SI units?</s>,SI (Système International) unitsNonSI unitsX-ray generator
+85,<pad> question: What is used to determine the signal intensity of a voxel?</s>,CT dosimetry
+86,<pad> question: What is the subject of atelectasis?</s>,Anatomy
+87,<pad> question: What is the name of the right upper lobe atelectasis?</s>,Right upper lobe atelectasis
+88,<pad> question: What is the name of the condition that is characterized by a triangular retrocardiac opacity?</s>,Right lower lobe atelectasis
+89,<pad> question: What is the name of the condition that is characterized by a rounded opacity in the medial right lower lobe?</s>,round atelectasis
+90,<pad> question: What is the distribution of the lesions?</s>,Random nodules:
+91,<pad> question: What is the split pleura sign?</s>,clinical classification of pneumoniaHospital acquired pneumonia (HAP)Health care associated pneumonia (HCAP)Ventilator associated pneumonia (VAP)Pneumonia in the immunocompromised patientradiographic patterns of infectionLobular pneumonia (bronchopneumonia)Round pneumoniaPulmonary abscessPulmonary gangreneEmpyemaPneumatoceleBronchopleural fistula (BPF)
+92,<pad> question: What is the name of the disease that causes the patient to develop TB?</s>,Primary tuberculosis
+93,<pad> question: What is the right side of TB?</s>,"Tuberculous adenopathy: Contrast-enhanced
+neck CT shows marked rightsided adenopathy
+(arrows) with peripheral enhancement and
+central necrosis."
+94,<pad> question: What is the name of the hematogenous seeding of tuberculosis?</s>,Miliary tuberculosis
+95,<pad> question: What are two examples of mycobacteria infections?</s>,Atypical mycobacteria infectionHistoplasma capsulatumCoccidioides immitis and Blastomyces dermatitidis
+96,<pad> question: What is the name of the pneumonia with cystic change?</s>,Pneumocystis jiroveci pneumonia
+97,<pad> question: What is the opacity of the left upper lobe cavity indicating?</s>,A����������Saprophytic aspergillosis (aspergilloma)
+98,<pad> question: What is the name of the disease that causes a cavitary lesion in the right upper lung?</s>,Airwayinvasive aspergillosisAngioinvasive aspergillosis
+99,<pad> question: What is mild?</s>,Pulmonary edema
+100,<pad> question: What is the PICC?</s>,Pulmonary artery catheter
+101,<pad> question: What is a histologic subtype of lung cancer?</s>,Histologic subtypes of lung cancerAdenocarcinoma
+102,<pad> question: What is a nonmucinous BAC?</s>,Bronchioloalveolar carcinoma (BAC)
+103,<pad> question: What type of tumor is a mucinous BAC important differential consideration for?</s>,Small cell carcinomaLarge cell carcinomaCarcinoid tumor
+104,<pad> question: What is the name of the tumor that is visible on CT?</s>,"Lymphangitic carcinomatosis
+_J:_______:"
+105,<pad> question: What is the name of the treatment for lung cancer?</s>,Pneumothoraxstaging of lung cancer
+106,<pad> question: What is the definition of?</s>,Pulmonary hypertension
+107,<pad> question: What is the WHO group 1 for?</s>,"Pulmonary hypertension due to leftto-right cardiac shunts – WHO group 1, precapillary"
+108,<pad> question: What is PE?</s>,Pulmonary embolism (PE)
+109,<pad> question: What is the name of the type of pneumonia?</s>,Idiopathic interstitial pneumonias
+110,<pad> question: What is the term for chronic HSP?</s>,Hypersensitivity pneumonitis (HSP)
+111,<pad> question: What is the name of the condition that causes pulmonary eosinophilia?</s>,PneumoconiosesSimple pulmonary eosinophilia (Löffler syndrome)Chronic eosinophilic pneumoniaPulmonary vasculitisChurg–Strauss
+112,<pad> question: What is the cause of the patient's pulmonary injury?</s>,Drug toxicityRadiation lung injury
+113,<pad> question: What is the name of the disease that causes adenopathy to occur?</s>,Sarcoidosis
+114,<pad> question: What is the anatomy of the mediastinum?</s>,Anatomy of the mediastinum
+115,<pad> question: What is a teratoma?</s>,Germ cell tumor (GCT)
+116,<pad> question: What is the name of the adenopathy that causes a mass to be in continuity with the soft tissues of the neck?</s>,LymphomaNonlymphomatous adenopathy
+117,<pad> question: What is the name of the disease that causes precardiac anterior mediastinal masses?</s>,Castleman disease
+118,<pad> question: What is the name of the cyst that is a paraspinal abscess?</s>,Foregut duplication cystPosterior mediastinal massNeurogenic tumorDescending thoracic aortic aneurysmLateral meningoceleEsophageal neoplasmForegut duplication cystParaspinal abscess
+119,<pad> question: What is the term for a tracheal thickening that is not specific to TB?</s>,Amyloidosis
+120,<pad> question: Behçet and Crohn disease are two examples of what?</s>,Rare causes of focal tracheal stenosisLarge airwaysBronchiectasis
+121,<pad> question: What is the name of the condition that causes tracheobronchomegaly?</s>,Broncholithiasis
+122,<pad> question: What is the predominant emphysema in the upper lobes?</s>,Centrilobular emphysemaParaseptal emphysema
+123,<pad> question: What is the term for a tracheal filling defect?</s>,Airway tumorsSquamous cell carcinoma (SCC)
+124,<pad> question: What type of cancer is tracheal adenoid cystic carcinoma?</s>,Carcinoid
+125,<pad> question: What is the term for a malignant tumor that invades the central airways?</s>,Tracheal lymphomaEndobronchial metastasis
+126,<pad> question: What is the name of the disease that causes multiple myeloma?</s>,MesotheliomaMetastasesMultiple myeloma/plasmacytoma
+127,<pad> question: What is the term for a pleural effusion?</s>,Pleural effusionTransudateExudate
+128,<pad> question: What is the spectrum of Aspergillosis?</s>,Pulmonary infection:
+129,<pad> question: What are two areas of concern for a pregnant patient with suspected pulmonary embolism?</s>,Pulmonary edema and ICU imaging:
+130,<pad> question: High-resolution CT of the lung: patterns of disease and what?</s>,Diffuse lung disease:
+131,<pad> question: What is the anterior part of the brain that is evaluated by CT?</s>,Mediastinum:
+132,<pad> question: What type of mesothelioma is a malignant one?</s>,Pleura:
+133,<pad> question: What is the anatomy of the liver?</s>,Liver anatomy
+134,<pad> question: What divides the lobes of the liver?</s>,"The portal veins divide the superior from inferior segments,
+while the hepatic veins form the segmental borders in the axial plane.
+The middle hepatic vein divides the left (24) from right (58) lobes of the liver"
+135,<pad> question: What is the term for a hepatic iron overload?</s>,Hepatic iron overload
+136,<pad> question: What is CandidiasisAbscess?</s>,Viral hepatitisCandidiasisAbscessEchinococcal disease
+137,<pad> question: What is the cirrhotic liver characterized by?</s>,Fibrolamellar HCC
+138,<pad> question: What is the term for hepatic lymphoma?</s>,Hepatic lymphomaEpithelioid hemangioendothelioma
+139,<pad> question: What is FNH?</s>,Focal nodular hyperplasia (FNH)
+140,<pad> question: What is the congenital name of the disease?</s>,BuddChiariVenoocclusive diseaseCardiac hepatopathycongenital cystic liver diseaseAutosomal dominant polycystic liver disease (ADPLD)
+141,<pad> question: What type of cyst is most common?</s>,Type I choledochal cyst:
+142,<pad> question: What type of cyst is a choledochal cyst?</s>,Type I choledochal cyst
+143,<pad> question: What type of cysts are found in the bile duct?</s>,Caroli disease (Type V choledochal cysts)biliary anatomical variantsLow insertion of cystic ductAberrant right posterior duct
+144,<pad> question: What is the name of the condition that causes sclerosing cholangitis?</s>,Acute cholecystitisPorcelain gallbladderAscending cholangitisPrimary sclerosing cholangitis (PSC)
+145,<pad> question: What is the name of the disease that causes a beaded appearance to the bile ducts?</s>,Primary biliary cirrhosis (PBC)
+146,<pad> question: What is the name of the disease?</s>,Recurrent pyogenic cholangitis (Oriental cholangiohepatitis)biliary neoplasiaBiliary cystadenoma
+147,<pad> question: What is the name of the gallbladder cancer?</s>,Gallbladder carcinomaGallbladder metastasis
+148,<pad> question: What is the name of the mucinous cystic neoplasm?</s>,cystic pancreatic epithelial neoplasmsSerous cystadenomaMucinous cystic neoplasm
+149,<pad> question: What is another name for pancreatic endocrine tumors?</s>,InsulinomaGastrinomaOther pancreatic endocrine tumors
+150,<pad> question: What is the crossing sign of?</s>,Pancreas divisum
+151,<pad> question: What are some of the diseases that affect the pancreas?</s>,systemic diseases that affect the pancreasCystic fibrosis (CF)Schwachman–DiamondObesity and exogenous steroid use
+152,<pad> question: What is the name of the acute pancreatitis?</s>,Intrapancreatic accessory spleenPancreatitis
+153,<pad> question: What is the term for chronic pancreatitis?</s>,Autoimmune pancreatitis
+154,<pad> question: What is a polysplenia syndrome?</s>,congenital splenic variations and anomaliesSplenule (accessory spleen)Polysplenia syndromeWandering spleen
+155,<pad> question: What is the term for a splenic hemangioma?</s>,HemangiomaHamartoma
+156,<pad> question: What is the name of the splenic epithelial cyst?</s>,Post-traumatic pseudocystIntrasplenic pancreatic pseudocystLymphangioma
+157,<pad> question: What is the name of the disease that causes a splenic infarct?</s>,SarcoidosisInflammatory pseudotumorsplenic infectionPyogenic abscessFungal abscessEchinococcal cystSplenic lymphomaSplenic metastasisAngiosarcomaSplenic infarctGamnaGandy bodiesGaucher disease
+158,<pad> question: What is the AAST's grading system?</s>,Overview of splenic trauma
+159,<pad> question: What is the name of the ring that shows a narrowing at the gastroesophageal junction?</s>,AnatomySchatzki ring
+160,<pad> question: What is the esophagitis associated with?</s>,Reflux (peptic) esophagitisBarrett esophagusInfectious esophagitisMedication esophagitisCrohn esophagitis
+161,<pad> question: What is a possible cause of mediastinal adenopathy?</s>,Peptic strictureBarrett esophagus strictureMalignant stricture (due to esophageal carcinoma)Radiation strictureExtrinsic compression from mediastinal adenopathy
+162,<pad> question: What type of cancer is a common occurrence?</s>,Mesenchymal tumorAdenomaFibrovascular polypVaricesForegut duplication cystsEsophageal foreign bodyEsophageal carcinoma
+163,<pad> question: What is the term for a type of esophageal carcinoma?</s>,MetastasisLymphoma
+164,<pad> question: What is the name of the aortic branching anomaly?</s>,Scleroderma
+165,<pad> question: What is a gastrointestinal tumor?</s>,thickened gastric foldsHelicobacter pylori gastritisEosinophilic gastritisHyperplastic polyp (inflammatory polyp)Adenomatous polypbenign gastric massesGastrointestinal stromal tumor (GIST)
+166,<pad> question: What is the name of the condition that is characterized by a pancreatic rest?</s>,Ectopic pancreatic rest
+167,<pad> question: What is a malignant gastric ulcer?</s>,Gastric cancerGIST (malignant)Gastric ulcersBenign gastric ulcerGastric carcinoma
+168,<pad> question: What is the name of the bowel obstruction that is caused by a gastric fistula?</s>,Postoperative leakGastrogastric fistulaSmall bowel obstruction (SBO)Internal herniaStomal stenosisMarginal ulcerssmall bowel obstruction (sbo)
+169,<pad> question: What is the arrow in the CT?</s>,Closed loop obstructionObstruction due to adhesions
+170,<pad> question: What is the cause of small bowel obstruction?</s>,Obstruction due to internal herniaObstruction due to intussusceptionObstruction due to Crohn diseaseObstruction due to gallstone
+171,<pad> question: What is the name of the disease that causes the colon to thicken?</s>,Radiation enteritisWhipple diseaseGraft versus host disease (GVHD)colitisIschemic colitisInfectious colitisPseudomembranous colitis
+172,<pad> question: What is the name of the type of diverticulitis?</s>,Typhlitis (neutropenic enterocolitis)Peutz–JeghersCowden syndromeCronkhite–CanadaAppendicitis
+173,<pad> question: What is the term for the mesentery?</s>,Mesentery“Misty” mesentery
+174,<pad> question: What type of cancer is the patient diagnosed with?</s>,Carcinoid
+175,<pad> question: What is the term for a tumor that is metastatic to the mesentery?</s>,Desmoid tumor
+176,<pad> question: What is the cause of the ovarian cancer?</s>,Mesenteric metastases and lymphomaPeritoneal carcinomatosis
+177,<pad> question: What is the name of the spleen that is a part of the pancreas?</s>,Pancreaticobiliary:
+178,<pad> question: What part of the body is a child born with?</s>,Spleen:
+179,<pad> question: What two areas of the body are referred to as 'esophagus and stomach'?</s>,Esophagus and Stomach:
+180,"<pad> question: What two areas of the peritoneum are referred to as ""Misty Mesentery""?</s>",Peritoneum and Mesentery:
+181,<pad> question: What compartments of the retroperitoneum are there?</s>,"3 compartments of the retroperitoneumLiposarcomaRetroperitoneal fibrosis
+HII‘_-_.|__H (cid:191) __I|_I“_|_1l|__r___I_II-_r-‘__I|_mFJIIIIIWIHII‘"
+182,<pad> question: What is the subject of the adrenal cortex?</s>,Anatomy
+183,<pad> question: What type of adenoma is MRI used for?</s>,Adrenal adenoma
+184,<pad> question: What is the name of the cyst in the adrenal gland?</s>,Adrenal cyst
+185,<pad> question: What is the name of the adrenal hemorrhage?</s>,Adrenal cortical carcinomaAdrenal hemorrhage
+186,<pad> question: What is a renal mass biopsy?</s>,Diagnostic approach to a renal mass
+187,<pad> question: What is the stage 3A of renal cell carcinoma?</s>,Renal cell carcinoma (RCC)
+188,<pad> question: What is the name of the disease that is associated with rcc?</s>,Renal lymphomaNon-neoplastic solid renal massessyndromes with renal masses (all have increased risk of rcc)von Hippel–Lindau (VHL)Birt–Hogg–Dube
+189,<pad> question: What is the name of the condition that causes renal abscesses?</s>,PyonephrosisRenal abscessEmphysematous pyelonephritisXanthogranulomatous pyelonephritis
+190,<pad> question: What is the cause of the enlarged right kidney?</s>,Renal tuberculosis
+191,<pad> question: What is the name of the condition that causes a delayed nephrogram?</s>,Papillary necrosisDelayed (prolonged) nephrogramMedullary nephrocalcinosisrenal trauma
+192,<pad> question: What is the ureteral filling defect?</s>,overview of ureteral imaging
+193,<pad> question: What is the name of the ureteral malignancy that is the primary concern?</s>,Ureteritis cysticaLeukoplakia (squamous metaplasia)Malacoplakia
+194,<pad> question: What is the ureter terminating within?</s>,Ureterocele
+195,<pad> question: What is the name of the cancer of the bladder?</s>,Bladder stonesBladder transitional cell carcinoma (TCC)Bladder adenocarcinoma
+196,<pad> question: What is the diagnosis of intraperitoneal bladder rupture?</s>,Extraperitoneal bladder rupture
+197,<pad> question: What is the focus of the tumor entirely confined within the gland?</s>,Prostate cancer
+198,<pad> question: What is the uterine anatomy?</s>,uterine anatomyNormal T 2 zonal anatomyAdenomyosis
+199,<pad> question: What is the stage IB of the cancer?</s>,Endometrial carcinoma
+200,<pad> question: What is the stage IIB of the cancer?</s>,Cervical carcinoma
+201,<pad> question: What is the name of the uterus that is a septate?</s>,Septate uterus
+202,<pad> question: What is another name for septate uterus?</s>,Bicornuate uterus
+203,<pad> question: What is the term for a cystic teratoma?</s>,EndometriosisMature cystic teratoma
+204,<pad> question: What is the name of the book that describes the history of renal tumors?</s>,General Reference:
+205,<pad> question: What part of the body is radiologist of?</s>,Retroperitoneal:
+206,<pad> question: What part of the body is scanned for imaging?</s>,Urethra:
+207,<pad> question: What is the name of the MRI of the pelvis?</s>,Female Pelvis MRI:
+208,<pad> question: What is the name of the massa intermedia?</s>,[STARTUP]
+209,<pad> question: What is the term for a downward uncal herniation?</s>,Subfalcine herniationTranstentorial (uncal) herniation
+210,<pad> question: What is the name of the cisterns?</s>,Cerebellar tonsillar herniationHydrocephalusIntraaxial and extraaxial compartmentsbasal cisterns
+211,<pad> question: What is the cleft in the brain mass?</s>,Approach to evaluation of a focal brain lesion
+212,<pad> question: What type of cells are present in the body?</s>,Glial cells
+213,<pad> question: What is the name of the lesion that is characterized by a large posterior fossa cystic lesion?</s>,Juvenile pilocytic astrocytoma (JPA)
+214,<pad> question: What is the name of the lesion that shows mild T 2 prolongation?</s>,Fibrillary astrocytomaLow-grade astrocytoma
+215,<pad> question: What is the term for a glioblastoma?</s>,Glioblastoma multiforme (GBM)
+216,<pad> question: What is the name of the lesion that is a slow growing lesion?</s>,Gliomatosis cerebriOligodendroglioma
+217,<pad> question: What type of tumor is hemangioblastoma?</s>,nonglioma primary brain tumorsEmbryonal tumorsAtypical teratoid/rhabdoid tumor (ATRT)
+218,<pad> question: What is PXA?</s>,Pleomorphic xanthoastrocytoma (PXA)Central neurocytoma
+219,<pad> question: What is the name of the disease that is asymptomatic of choroid plexus papilloma?</s>,Intraventricular meningioma
+220,<pad> question: What is the term for a tumor that is not a normal size?</s>,Subependymoma
+221,<pad> question: What is another type of CNS lymphoma?</s>,Primary CNS lymphoma: Immunocompromised patientSecondary CNS lymphomaMetastatic disease to the brainIntraaxial metastasisMeningiomaDural metastasisSchwannoma
+222,<pad> question: What is the name of the arachnoid cyst?</s>,Arachnoid cystAneurysm
+223,<pad> question: What is the name of the lobulated mass in the left cerebellopontine angle?</s>,Intraaxial neoplasm
+224,<pad> question: What is the name of the tumor that is a normal hamartoma?</s>,Pituitary microadenomaPituitary macroadenomaLymphocytic hypophysitisGranulomatous hypophysitisCraniopharyngiomaMeningiomaGerminomaEpidermoid and dermoid cystsAneurysmMetastasesLymphoma
+225,<pad> question: What is a rare form of a hemorrhagic pineal cyst?</s>,Germ cell tumorPineal cystPineocytomaPineoblastoma
+226,<pad> question: What is the cause of the axonal injury?</s>,Vein of Galen aneurysmMeningiomaQuadrigeminal plate lipomaExtraaxial hemorrhageSubarachnoid hemorrhage (SAH)Epidural hematomaSubdural hematomaIntraventricular hemorrhageCortical contusionIntraparenchymal hematoma
+227,<pad> question: What type of fractures are there?</s>,Zygomaticomaxillary complex fracturesLe Fort fractures
+228,<pad> question: What is the most common type of imaging of stroke?</s>,Imaging of stroke
+229,<pad> question: What is a high flow lesions?</s>,High-flow lesions (lesions with shunting)Dural arteriovenous fistula (d AVF)
+230,<pad> question: What is the name of the axial CT image?</s>,Perimesencephalic subarachnoid hemorrhage
+231,<pad> question: What is the morphology of an aneurysm?</s>,Aneurysm morphology and pathologySaccular aneurysmFusiform aneurysmMycotic (infectious) aneurysmOncotic aneurysmTraumatic pseudoaneurysm
+232,<pad> question: What is a typical pattern of infarction seen with?</s>,Venous thrombosis
+233,<pad> question: What is the name of the disease that can be seen on T2 images?</s>,Hypertensive hemorrhageCerebral amyloid angiopathy (CAA)Arteriovenous malformation (AVM)Dural AV fistula (d AVF)Venous thrombosisHemorrhagic neoplasmHemorrhagic transformation of infarctVasculitisMoyamoya
+234,<pad> question: What is the name of the disease that causes progressive multifocal leukoencephalopathy?</s>,Marburg variant (acute multiple sclerosis)Devic disease (Neuromyelitis optica)toxicmetabolic white matter diseaseMarchiafava–BignamiWernicke encephalopathyVascular white matter diseaseVasculitisMicroangiopathyInfectious (viral) white matter diseaseProgressive multifocal leukoencephalopathy (PML)
+235,<pad> question: What is the name of the disease?</s>,Acute disseminated encephalomyelitis (ADEM)Iatrogenic white matter diseaseRadiation injury
+236,<pad> question: What is the name of the infection that causes the edema to spread?</s>,Pyogenic abscessLyme diseaseFungal infectionCryptococcusParasitic infectionNeurocysticercosis
+237,<pad> question: What is the name of the disease that causes CJD?</s>,Herpes encephalitisHIV encephalopathyCytomegalovirus (CMV) encephalitisCreutzfeldt–Jakob disease (CJD)
+238,<pad> question: What is the cause of hypoxic ischemic encephalopathy?</s>,Methanol poisoning
+239,<pad> question: What is the facial anatomy of the fl oor of the mouth?</s>,Anatomy
+240,<pad> question: What is the TDC?</s>,Peritonsillar abscessLemierre syndromeBezold abscessRanulaDermoid/epidermoidThyroglossal duct cyst (TDC)
+241,<pad> question: What is the name of the cyst in the second branchial cleft cyst?</s>,solitary parotid region cystic lesion
+242,<pad> question: What other neck lesions are there?</s>,other neck cystic lesionsLymphatic malformationsMiscellaneous neck lesionsLingual thyroid
+243,<pad> question: What is the cause of the fracture of the thyroid cartilage?</s>,Vocal cord paralysisLaryngoceleLaryngeal cancerLaryngeal trauma
+244,<pad> question: What is the name of the invasive fungal sinusitis?</s>,sinonasal diseaseAcute sinusitisChronic sinusitisOrbital complications of sinusitisIntracranial complications of sinusitisBony complications of sinusitisMucus retention cystAcute invasive fungal sinusitisAntrochoanal polyp
+245,<pad> question: What is the name of the condition in which the left frontal sinus is not expanded?</s>,Inverted papilloma
+246,<pad> question: What is the name of the disease that causes Sjögren syndrome?</s>,Pleomorphic adenomaWarthin tumorMucoepidermoid carcinomaAdenoid cystic carcinomaCarcinoma ex pleomorphic adenomaSquamous cell carcinomaInflammatory salivary diseaseSarcoidosisHIV lymphoepithelial lesions
+247,<pad> question: What is a nasopharyngeal angiofibroma?</s>,Olfactory groove meningioma
+248,<pad> question: What is a cholesterol cyst?</s>,Facial nerve schwannomaCholesterol granuloma (cholesterol cyst)
+249,<pad> question: What is the focus of d WI hyperintensity in the left middle ear?</s>,"Coronal diffusion weighted image shows a focus
+of d WI hyperintensity in the left middle ear.
+diffusion was restricted when correlated with
+the Ad C map (not shown)."
+250,<pad> question: What is the term for a labyrinthitis?</s>,LabyrinthitisLongitudinal temporal bone fractureTransverse temporal bone fracture
+251,<pad> question: What is the name of the chordoma?</s>,Chordoma
+252,<pad> question: What is the name of the disease that affects the clival marrow?</s>,ChordomaChondrosarcomaMetastasisClival chordoma:
+253,<pad> question: What is the name of the glomus jugulare that has spread into the middle ear?</s>,Glomus jugulareGlomus tympanicum
+254,<pad> question: What is an example of an orbital infection?</s>,overview and anatomy of the orbits
+255,<pad> question: What is the term for a cellulitis with epidural abscess?</s>,Subperiosteal abscessCavernous sinus thrombosis
+256,<pad> question: What is the name of the hemangioma?</s>,HemangiomaOrbital lymphoma
+257,<pad> question: What is the name of the cancer metastasis?</s>,Schwannoma/neurofibromaMetastasisLacrimal gland lesion
+258,<pad> question: What is the name of the tumor that is a result of a fatty type of thyroid?</s>,Orbital pseudotumor
+259,<pad> question: What is the name of the condition that is caused by multiple sclerosis?</s>,Optic neuritis
+260,<pad> question: What is the term for retinal prematurity?</s>,RetinoblastomaCoat diseaseRetinopathy of prematurity (ROP)
+261,<pad> question: What is the name of the lesion that causes a masticator space mass?</s>,Colobomacongenital orbital lesionsSphenoid wing dysplasiaSeptooptic dysplasiaMasticator space
+262,<pad> question: What area of the body is affected by intramedullary mass?</s>,Perivertebral space
+263,<pad> question: What is the name of the lesion that is a hemangioblastoma?</s>,HemangioblastomaDemyelinating lesion
+264,<pad> question: What is the term for a myxopapillary ependymom?</s>,MeningiomaDermoid cystEpidermoid cyst
+265,<pad> question: What is the name of the arachnoiditis?</s>,Arachnoiditis
+266,<pad> question: What is the goal of imaging?</s>,Epidural lipomatosisoverview of degenerative disease
+267,<pad> question: What is a degenerative disease?</s>,Disc bulges and herniationsGeneral degenerative changesLigamentum fl avum infolding/hypertrophyHigh intensity zone (annular fi ssure)nondegenerative hypertrophic diseases
+268,<pad> question: What is the name of the lesion in the filum terminale?</s>,Pyogenic discitis/osteomyelitisSagittal CTTuberculous osteomyelitisDural arteriovenous fistula (d AVF)InfarctioncongenitalTethered cord syndromeFatty filum
+269,<pad> question: What is the name of the book that discusses the use of magnetic resonance imaging?</s>,General References:
+270,<pad> question: What two areas of the brain are referred to as CT perfusion?</s>,Cerebrovascular and Stroke:
+271,<pad> question: What is the name of the disease that is controversied around the pathophysiology of vasogenic edema?</s>,White Matter Disease:
+272,<pad> question: What are two areas of interest in the otolaryngology of the head and neck?</s>,Infection and toxic/Metabolic:
+273,<pad> question: What is the name of the condition that causes subchondral cysti c changes?</s>,osteoarthritis (o A)
+274,<pad> question: What is the condition of the foot that is characterized by narrowing of the cartilage space?</s>,Osteoarthritis in the footOsteoarthritis in the knee
+275,<pad> question: What is the name of the degenerative change in the spine?</s>,Degenerative change in the spineErosive osteoarthritis
+276,<pad> question: What is the name of the arthritis that involves the hip?</s>,Rheumatoid arthritis in the feetRheumatoid arthritis in the hip
+277,<pad> question: What is the name of the arthropathy that causes a chondrocalcinosis?</s>,Jaccoud arthropathySclerodermaPolymyositis and dermatomyositiscrystal deposition arthropathies
+278,<pad> question: What is the name of the condition that affects the hand?</s>,HemochromatosisAcromegaly
+279,<pad> question: What is the name of the disease that causes severe joint space narrowing?</s>,Ochronosis (alkaptonuria)Multicentric reticulohistiocytosisHemophilic arthropathy
+280,<pad> question: What is the cause of the calcification?</s>,c: calcificationc: cartilage spacesD: Distribution
+281,<pad> question: What is the name of the periosteal reaction?</s>,Morphology
+282,<pad> question: What is enostosis?</s>,bone forming (osteo) lesions
+283,<pad> question: What is Synovial chondromatosis?</s>,Malignant: OsteosarcomaRadiograph
+284,<pad> question: What is the term for a pedunculated exostosis of the tibial metaphysis?</s>,Benign: Osteochondroma
+285,<pad> question: What is the most common type of fibroma?</s>,Benign: Chondromyxoid fibromaMalignant: Chondrosarcoma
+286,<pad> question: What is MPH?</s>,Lesions of fibrous originMalignant: Malignant fibrous histiocytoma (MFH)
+287,<pad> question: What is the complete medullary cavity called?</s>,Benign: Hemangioma
+288,<pad> question: What type of tumor is usually benign?</s>,Malignant: Angiosarcoma of bone
+289,<pad> question: What is the name of the chordoma lesions?</s>,Malignant: Liposarcomanotochordal lesionsMalignant: Chordoma
+290,<pad> question: What is the most common type of osseous metastases?</s>,Lytic osseous metastasesMyositis ossificans
+291,<pad> question: What is the term for renal osteodystrophy?</s>,Osteomyelitis
+292,<pad> question: What is the term for osteomyelitis?</s>,osteomyelitis
+293,<pad> question: What is the name of the disease that causes calcaneal osteomyelitis?</s>,Contiguous focus osteomyelitisSubacute osteomyelitisChronic osteomyelitis
+294,<pad> question: What is the cause of osteomalacia?</s>,soft-tissue infectionsSeptic arthritisMultifactorial bone diseaseOsteoporosisScurvyOsteomalaciaEndocrine bone diseaseAcromegaly
+295,<pad> question: What is the term for hypoparathyroidism?</s>,HypothyroidismHypoparathyroidismHyperthyroidism
+296,<pad> question: What is the name of the disease of the right hemipelvis?</s>,Paget disease
+297,<pad> question: What is the name of the disease that causes sclerosis of the bones in the thorax?</s>,Hereditary hyperphosphatasia (juvenile Paget)Osteopetrosis
+298,<pad> question: What is the name of the disease that causes a fracture of the proximal femur?</s>,Gaucher disease
+299,<pad> question: What is the term for sickle cell anemia?</s>,Sickle cell disease
+300,<pad> question: What is the cause of the second metatarsal stress fracture?</s>,MyelofibrosisMastocytosisFracturestendonsTenosynovitisMyxoid degeneration (tendinosis)Partial tearComplete tearForefootSesamoid fractureLisfranc fracturedislocation
+301,<pad> question: What is the fracture of the base of the second metatarsal?</s>,"Frontal radiograph of the foot shows a
+homolateral dislocation at the Lisfranc joint,
+with fracture of the base of the second
+metatarsal (arrow)."
+302,<pad> question: What is a necrosis?</s>,Navicular osteonecrosisChopart fracturedislocationCalcaneal stress fractureTalar fracture
+303,<pad> question: What is the fibrous coalition?</s>,Hindfoot (tarsal) coalition
+304,<pad> question: What is the name of the injury that occurs in the ankle?</s>,Named ankle fracturesAchilles tendon injury
+305,<pad> question: What is the arrow on the radiograph of the knee?</s>,Knee dislocationPatellar fractureTibial plateau fracture
+306,<pad> question: What type of tear cleaves the meniscus in a plane parallel to the tibial plateau?</s>,Oblique/horizontal tear
+307,<pad> question: What is the radial tear of the meniscus?</s>,Buckethandle tear
+308,<pad> question: What is the secondary finding of a PCL tear?</s>,ACL tear
+309,<pad> question: What is the acronym for the Lateral collateral ligament?</s>,MCL injury
+310,<pad> question: What is the secondary buckling of?</s>,Patellar tendon injury
+311,<pad> question: What is the name of the disease that causes a lateral patellar dislocation?</s>,Osgood–Schlatter disease
+312,<pad> question: What is the normal anatomic alignment of the femoral head and neck?</s>,Acetabular fracture
+313,<pad> question: What is another term for a subtrochanteric fracture?</s>,Subtrochanteric fracture (extracapsular)
+314,<pad> question: What is FAI?</s>,Labral injury
+315,<pad> question: What type of impingement is there?</s>,Mixedtype impingement
+316,<pad> question: What is the cause of the lateral radiograph?</s>,cervical spine trauma
+317,<pad> question: What is the term for a lateral interfacetal dislocation?</s>,Odontoid fractureHangman’s fractureFlexion teardrop fractureExtension teardrop fractureClayshoveler’s fractureBilateral interfacetal dislocation (locked facets)Unilateral interfacetal dislocationGrisel syndrome
+318,<pad> question: What is the cause of a rotator cuff tear?</s>,Posterior glenohumeral dislocationInferior glenohumeral dislocation (luxatio erecta)Os acromialerotator cuff
+319,<pad> question: What is the term for a fullthickness rotator cuff tear?</s>,Rotator cuff atrophy
+320,<pad> question: What is the biceps tendon's anatomy?</s>,Instability: overview and anatomy
+321,<pad> question: What is the name of the lesion that is associated with the Bankart lesion?</s>,Bankart lesionHill–SachsAnterior labroligamentous periosteal sleeve avulsion (ALPSA)Perthes lesion
+322,<pad> question: What is the name of the condition that causes entrapment?</s>,Entrapment neuropathiesQuadrilateral space syndrome
+323,<pad> question: What is the most common elbow fracture in children?</s>,Radial head fractureSupracondylar fracture
+324,<pad> question: What is the dislocation of the ulna?</s>,Essex–Lopresti fracturedislocation
+325,<pad> question: What is the name of the fracture?</s>,Galeazzi fracturedislocationColles fractureHutchinson (chauffeur’s) fracture
+326,<pad> question: What is the distal ulnar dislocation?</s>,"Frontal radiograph of the proximal forearm shows a middiaphyseal ulnar fracture (yellow arrow) and radial head
+dislocation (red arrow)."
+327,<pad> question: What is the name of the scaphoid fracture?</s>,Scaphoid fractureTriquetral fractureKienbock disease
+328,<pad> question: What is the name of the fracture at the base of the thumb metacarpal?</s>,Rolando fracture
+329,<pad> question: What is the name of the disease that is a result of inflammation?</s>,Arthritis:
+330,<pad> question: What is the name of the gallstone that is visible on a sagittal ultrasound?</s>,[STARTUP]
+331,<pad> question: What is the name of the hyperplastic cholecystos?</s>,Acalculous cholecystitisEmphysematous cholecystitisCourvoisier gallbladder
+332,<pad> question: What is the most common cause of gallbladder cancer?</s>,Gallbladder cancerPrimary gallbladder carcinomaGallbladder metastases
+333,<pad> question: What is the name of the condition that causes a gallstone to appear in the pancreas?</s>,Mirizzi syndromePneumobilia
+334,<pad> question: What is the name of the condition that causes a diffuse increase in echogenicity of the liver?</s>,Biliary ductal dilationHepatic steatosis
+335,<pad> question: What is the name of the disease that causes the liver to become more echogenic?</s>,Liver infectionsViral hepatitisPyogenic abscess
+336,<pad> question: What is a hemangi?</s>,Echinococcal cyst (hydatid disease)CandidiasisHepatic Pneumocystis jiroveci
+337,<pad> question: What is a liver metastasis?</s>,Focal nodular hyperplasia (FNH)Hepatic adenomaHepatic lipomaBiliary cystadenomaHepatic metastases
+338,<pad> question: What is a PTLD?</s>,Fibrolamellar carcinomaHepatic lymphomaPosttransplant lymphoproliferative disorder (PTLD)
+339,<pad> question: What is a recanalized umbilical vein considered to be a diagnosticti c of?</s>,Portal hypertension
+340,<pad> question: What is the name of the condition that causes portal vein thrombosis?</s>,Portal vein thrombosis
+341,<pad> question: What is the name of the ultrasound that shows tiny echogenic foci in the liver?</s>,Portal venous gas
+342,<pad> question: What is the term for a chronic pancreatitis?</s>,PancreatitisAcute pancreatitisChronic pancreatitis
+343,<pad> question: What is a splenomegaly?</s>,Pancreatic adenocarcinomaCystic pancreatic neoplasmsPancreatic endocrine tumorsPancreatic lymphomaPatterns of diseaseSplenic calcificationEchogenic splenic lesionHypoechoic splenic lesion
+344,<pad> question: What are three types of kidney stones?</s>,"stones, obstruction, and hydronephrosis"
+345,<pad> question: What are two types of lesion?</s>,Renal lymphomarenal cysts and cystic masses
+346,<pad> question: What is the cause of the pyonephrosis?</s>,Renal abscessCystic renal cell carcinomarenal infectionAcute diffuse pyelonephritisFocal pyelonephritisRenal abscessEmphysematous pyelonephritisTuberculous pyelonephritisPyonephrosisHIV associated nephropathyMulticystic renal disease
+347,<pad> question: What is a type of renal cystic disease?</s>,Acquired renal cystic disease
+348,<pad> question: What is the name of the condition that can cause medullary calcification?</s>,Medullary nephrocalcinosis
+349,<pad> question: What type of renal pyramids are visible in the left image?</s>,Echogenic kidneys
+350,<pad> question: What is the function and anatomy of the Rete testis?</s>,scrotal anatomy
+351,<pad> question: What type of tumors can cause a starry sky appearance?</s>,Burnt-out germ cell tumorTesticular microlithiasisTesticular metastasesBenign testicular tumors
+352,<pad> question: What is a common type of testicular cancer?</s>,SarcoidosisBenign testicular tumor mimicsExtratesticular massesBenign extratesticular massesHematoceleVaricocele
+353,<pad> question: What is a simple testicular cyst?</s>,Epididymal cysts and spermatoceleSimple testicular cystTubular ectasia of rete testis
+354,<pad> question: What type of cyst is seen on the right testicle?</s>,Tunical cyst
+355,<pad> question: What is a common cause of a hematoma?</s>,Testicular torsionSegmental infarctionscrotal traumaHematomaTesticular contusionTesticular ruptureEpididymitis
+356,<pad> question: What is the name of the gangrene in the testicle?</s>,EpididymoorchitisFournier gangrene
+357,<pad> question: What is the name of the condition that is caused by a stenosis of the heart?</s>,Carotid stenosis
+358,<pad> question: What is the term for severe internal carotid artery stenosis?</s>,renal artery stenosis
+359,<pad> question: What examination is performed on the CFv?</s>,Deep venous thrombosis (DVt)
+360,<pad> question: What is the name of the thyroid disease?</s>,Diffuse thyroid diseaseHashimoto thyroiditis (chronic lymphocytic thyroiditis)Graves disease
+361,<pad> question: What is the relationship between a thyroid nodule and thyroid cancer?</s>,Multinodular glandthyroid nodule and thyroid cancer
+362,<pad> question: What is the name of the disease that is caused by the parathyroid glands?</s>,Malignant adenopathyParathyroid imaging
+363,<pad> question: What is the anatomy of the uterine cavity?</s>,Pelvic anatomy
+364,<pad> question: What is the name of the drug used to treat endometrial cancer?</s>,Tamoxifen effect
+365,<pad> question: What is a leiomyoma?</s>,EndometriosisAdenomyosisMyometriumFibroid (leiomyoma)Leiomyosarcoma
+366,<pad> question: What is the cause of the ovaries changes?</s>,Endometrial fluidUterine infectionsIntrauterine device (IUD)PostCesarean section complications
+367,<pad> question: What is the yellow curved rrow in the iagram?</s>,Dilated fallopian tubeVascular adnexal diseaseAdnexal torsion
+368,<pad> question: What is the name of the cancer that was found in the embryo?</s>,Dermoid cystOvarian cancer
+369,<pad> question: What is the term for a convention relating to the age of a woman?</s>,Pregnancy dating
+370,<pad> question: What is the risk stratification of ectopic pregnancy?</s>,"guarded pregnancy prognosis:
+follow-up ultrasound recommended"
+371,<pad> question: What are mono/di twins?</s>,Mono/di (monochorionic/diamniotic) twinsMono/mono (monochorionic/monoamniotic) twins
+372,<pad> question: What is the name of the condition that causes the fetus to be embolized?</s>,complications of monochorionic twinsTwin embolization syndrome
+373,<pad> question: What is a rare condition that can be difficult to identify?</s>,Placental abruption
+374,<pad> question: What is the name of the placenta that has invaded through the serosa into the bladder wall?</s>,Placenta percreta:
+375,<pad> question: What is a fetal ascites?</s>,Immune hydropsNonimmune hydropsFetal ascitesFetal pleural effusion
+376,<pad> question: What is the name of the ventricular enlargement?</s>,VentriculomegalyAnencephaly
+377,<pad> question: What is the arrow in the lumbar open neural tube defect?</s>,Dandy Walker malformationChiari II/Myelomeningocele
+378,<pad> question: Absence of the cavum septum pellucidum is associated with what?</s>,Agenesis of the corpus callosum
+379,<pad> question: What is the name of the choroid plexus cyst?</s>,HydranencephalyChoroid plexus cystVein of Galen malformation
+380,<pad> question: What is the enlarged midline vascular structure?</s>,"Transverse ultrasound of a fetal head shows
+a hypoechoic cyst (arrow) located within
+the echogenic, otherwise normalappearing
+choroid."
+381,<pad> question: What is CDH?</s>,Congenital diaphragmatic hernia (CDH)Bronchopulmonary foregut malformationPulmonary hypoplasiaDistal fetal bowel obstruction
+382,<pad> question: What is the name of the condition that causes a bowel herniation?</s>,Hyperechoic small bowelOmphaloceleGastroschisisPentalogy of Cantrell
+383,<pad> question: What is the term for a kinking of the femur?</s>,Sacrococcygeal teratoma
+384,<pad> question: What is the choroid plexus cyst</s>,"Transverse image of the fetal skull shows a large
+choroid plexus cyst (arrow) nearly replacing the
+entire choroid."
+385,<pad> question: What part of the body is imaged by ultrasonography?</s>,Pancreas:
+386,<pad> question: What type of abnormalities are evaluated by ultrasound?</s>,Spleen:
+387,<pad> question: What type of medicine does London England offer?</s>,Vascular:
+388,<pad> question: What type of nodules were detected at the US Society of Radiologists in Ultrasound conference statement?</s>,Thyroid:
+389,<pad> question: What are the two main areas of ultrasound?</s>,Ectopic and Early Pregnancy:
+390,<pad> question: What part of the body is imaged by ultrasound?</s>,Placenta:
+391,<pad> question: What is the reason for the uptake of fluorine18?</s>,technical considerations
+392,<pad> question: What is the initial staging of lung cancer?</s>,Lung cancerSolitary pulmonary nodule (SPN)
+393,<pad> question: What is a common type of cancer?</s>,Head and neck cancerLymphomaBreast cancercancers where PEtct plays a limited roleRenal cell carcinoma (RCC) and bladder cancerProstate cancerclinical overview
+394,<pad> question: What is the term for radionuclides?</s>,radionuclides used in nuclear cardiology
+395,<pad> question: What are two types of stress?</s>,types of stress – exercise and pharmacologic
+396,<pad> question: What was the rest and stress images of the sestamibi perfusion study?</s>,Normal
+397,<pad> question: What is an Iodine-131 Tc99m pertechnetate?</s>,radiotracers
+398,<pad> question: What is the name of the disease that causes the thyroid to become irritable?</s>,Graves diseaseHashimoto thyroiditis
+399,<pad> question: What is the I131 used for?</s>,"therapeutic indications (I131)Thyroid carcinoma, post radioiodine therapyTreatment of Graves Disease"
+400,<pad> question: What was confirmed at surgery?</s>,Treatment of multinodular goiterradiotracerParathyroid adenoma
+401,<pad> question: What is the name of the bleeding that occurs when a Tc99m labeled RBC is used?</s>,Gastrointestinal bleeding
+402,<pad> question: What is the HId image of the liver?</s>,• Technetium-99m pertechnetate localizes to gastric mucosa.Meckel diverticulum
+403,<pad> question: What is the term for a chronic condition?</s>,Chronic cholecystitis
+404,<pad> question: What is the main cause of cholangiocarcinoma?</s>,Hepatic dysfunction
+405,<pad> question: What is the name of the device used to detect pulmonary embolism?</s>,radiotracers
+406,<pad> question: What is the low probability of metastatic disease?</s>,Diagnosis of pulmonary embolism with PIo PED II
+407,<pad> question: What is a heel splint?</s>,FractureStress fractureShin splints
+408,<pad> question: What is the name of the condition that causes Avascular necrosis?</s>,Insufficiency fractureProsthesis evaluationOsteomyelitis and musculoskeletal infectionHypertrophic pulmonary osteoarthropathyAvascular necrosis (AVN)
+409,<pad> question: What is a diffusely decreased radiotracer?</s>,radiotracers
+410,<pad> question: What is the name of the tumor that is confirmed by CT?</s>,Extraadrenal pheochromocytoma
+411,<pad> question: What is the use of radiotracers?</s>,radiotracersclinical applications of cerebrovascular imagingBrain deathEvaluation of cerebral perfusionSeizure imagingDementia imagingBrain tumor recurrence versus radiation necrosisCrossed cerebellar diaschisis
+412,<pad> question: What is the name of the book that discusses the use of PET in cancer care?</s>,General Reference:
+413,<pad> question: What journal published a study on the use of PET and CT?</s>,Nuclear Cardiology:
+414,<pad> question: What is the name of the imaging technique used to diagnose thyroid disorders?</s>,Thyroid Nuclear Imaging:
+415,<pad> question: What is the role of nuclear medicine in the detection of acute gastrointestinal bleeding?</s>,GI Nuclear Imaging:
+416,<pad> question: What is the name of the imaging method used to diagnose osteoid osteoma?</s>,Musculoskeletal Nuclear Imaging:
+417,<pad> question: What is the name of the imaging system used to evaluate brain function?</s>,Brain Nuclear Imaging:
+418,<pad> question: What is the acronym for the invasive ductal breast cancer pathway?</s>,[STARTUP]
+419,<pad> question: What is the name of the disease that causes a breast abcess?</s>,Paget disease of the nipplecyclical and proliferative breast diseaseFibrocystic changeSclerosing adenosisInfectious and inflammatory breast diseaseMastitisBreast abscessGranulomatous mastitisPeriductal mastitisMondor diseaseMammographyscreening mammographycraniocaudal (CC)
+420,<pad> question: What is the procedure called that evaluates image quality and adequacy?</s>,Diagnostic mammography
+421,<pad> question: What is a benign cause of a breast mass?</s>,skin thickeningSkin thickening: Benign causesMammographic masses using the b Ir ADs lexicon
+422,<pad> question: What is the name of the calcifications on the mammogram?</s>,Large rodlike calcificationsMilk of calcium calcifications
+423,<pad> question: What are the calcifications of the rim?</s>,Dystrophic calcificationsRound calcificationsPunctate calcificationsLucentcentered calcifications“Eggshell” or “rim” calcifications
+424,<pad> question: What type of calcifi cations are seen on mammography?</s>,Diffuse/scattered calcifi cationsRegional calcifi cationsSegmentalGrouped or clustered
+425,<pad> question: What is the asymmetry of the lesion?</s>,"Mammographic use of b Ir ADs 3Circumscribed, benignappearing solid massCluster of tiny round calcificationsFocal asymmetry"
+426,<pad> question: What is ultrasound differentiation of a benign and malignant solid mass?</s>,ultrasound differentiation of benign and malignant solid massesUltrasound features of a benign massUltrasound features of a malignant mass
+427,<pad> question: What is the common complaint of a fatty mass?</s>,Fatty masses
+428,<pad> question: What is the term for a mass with a fine peripherally calcified rim?</s>,Oil cyst (fat necrosis)
+429,<pad> question: What is the term for fibroadenolipoma?</s>,Hamartoma (fibroadenolipoma)
+430,<pad> question: What is the name of the mass that is lobulated and contains both fat and fat?</s>,Galactocele
+431,<pad> question: What is the mammogram of?</s>,Intramammary lymph node
+432,<pad> question: What is the term for a hyalinized mass?</s>,Fibroadenoma
+433,<pad> question: What is PASH?</s>,Pseudoangiomatous stromal hyperplasia (PASH)Breast cancer
+434,<pad> question: What is a poor predictor of malignancy for solid circumscribed masses?</s>,"• Size is a poor predictor of malignancy for solid circumscribed masses.
+roadenomaGiant fibroadenomaPhyllodes tumorLactational adenoma"
+435,<pad> question: What is the name of the disease that causes multiple intraductal papillomas?</s>,Multiple skin massesNeurofibromatosisSteatocystoma multiplex
+436,<pad> question: What is the name of the mammogram?</s>,Simple cystComplicated cyst
+437,<pad> question: What type of lesion is present in the calipers?</s>,Clustered microcysts
+438,<pad> question: What is the term for IDC?</s>,Invasive ductal carcinoma (IDC)Invasive lobular carcinomaTubular carcinoma
+439,<pad> question: What is the treatment for a breast cancer nodal metastasis?</s>,Postlumpectomy or postexcisional biopsy scarAbscessAxillary massBreast cancer nodal metastasisLymphomaAngiosarcoma
+440,<pad> question: What is the name of the tumor that is metastatic to the breast?</s>,Angiosarcoma:
+441,<pad> question: What is the asymmetry on the mLo?</s>,AsymmetryGlobal asymmetry
+442,<pad> question: What is caused by a scar from prior excisional biopsy?</s>,Architectural distortion
+443,<pad> question: What is the most common type of accessory tissue?</s>,Sternalis muscleAccessory nipple (polythelia)Accessory breast tissue
+444,<pad> question: What is the clinical role of breast MRI?</s>,Introduction
+445,<pad> question: What is the name of the NMLE distribution?</s>,Mr I focus
+446,<pad> question: What is the name of the document that describes the management of breast cancer?</s>,Management guidelines
+447,<pad> question: What is the most common type of imaging of implants?</s>,Imaging implants
+448,<pad> question: What is the name of the case courtesy of Christine Denison?</s>,Intracapsular silicone implant rupture
+449,<pad> question: What is the name of the procedure used to treat male breast cancer?</s>,Reduction mammoplastyGynecomastiaMale breast cancer
+450,<pad> question: What is the name of the book that discusses the use of mammography and ultrasound?</s>,General References:
+451,<pad> question: What is the current status of diagnostic breast ultrasound?</s>,Breast Ultrasound:
+452,<pad> question: What is the name of the procedure used to diagnose breast lesions?</s>,Breast Interventions:
+453,<pad> question: What is the main type of imaging?</s>,Cardiovascular imaging
+454,<pad> question: What is the aorti c dissecti on secondary to atherosclerosis?</s>,overview of acute aortic syndrome
+455,<pad> question: What type of aneurysm is asymptomatic?</s>,Aortic trauma
+456,<pad> question: What is AAA?</s>,Abdominal aortic aneurysm (AAA)
+457,<pad> question: What is inadequate graft seal?</s>,Type I endoleak: Inadequate seal of graft
+458,<pad> question: What type of aortitis is active?</s>,Types IV and V endoleaksAortitis
+459,<pad> question: What is a structural coronary artery anomaly?</s>,structural coronary artery anomaliesBenign coronary artery anomaly
+460,<pad> question: What is the name of the MRI that is used to measure cardiac perfusion?</s>,overview of cardiac Mr I
+461,<pad> question: What is the cause of midmyocardial delayed enhancement?</s>,Delayed enhancement: nonischemic
+462,<pad> question: What is the term for a hypertrophic cardiomyopathy?</s>,Circumferential subendocardial delayed enhancement
+463,<pad> question: What is the left atrial enlargement?</s>,Right ventricular enlargementRight atrial enlargementLeft ventricular enlargement
+464,<pad> question: What is the cause of rightsided valvular disease?</s>,Mitral stenosisMitral annular calcificationAortic stenosisAortic regurgitationRightsided valvular disease
+465,<pad> question: What is HCM?</s>,Hypertrophic cardiomyopathy (HCM)
+466,<pad> question: What is the term for nonischemic cardiomyopathy?</s>,Dilated cardiomyopathy
+467,<pad> question: What is the name of the condition that can be seen on a chest radiograph?</s>,Pericardial calcification
+468,<pad> question: What part of the body is a thrombotic aneurysm?</s>,Aorta:
+469,<pad> question: What type of CT is used to diagnose heart disease?</s>,Cardiac CT:
+470,<pad> question: What is a guide for the beginner?</s>,Cardiac MRI:
+471,<pad> question: What part of the body is affected by anatomic pitfalls?</s>,Pericardium:
